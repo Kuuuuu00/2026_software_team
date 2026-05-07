@@ -1,9 +1,5 @@
 # Use case description: 회원 탈퇴
 
-**Precondition**: 회원이 로그인된 상태이다.
-
-**Basic Flow**:
-
 | Actor Action | System Response |
 |---|---|
 | 1. 회원 메뉴에서 [회원 탈퇴]를 선택한다 |   |
@@ -13,5 +9,3 @@
 
 **Alternative Courses**:
 - 3a. Actor가 [취소] 버튼을 누르는 경우: 시스템은 직전 화면으로 돌아간다.
-
-**Postcondition**: 회원 계정과 관련된 모든 데이터가 시스템에서 삭제되며, 사용자는 비로그인 상태가 된다.
