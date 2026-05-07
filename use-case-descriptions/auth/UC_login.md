@@ -1,7 +1,5 @@
 # Use case description: 로그인
 
-**Basic Flow**:
-
 | Actor Action | System Response |
 |---|---|
 |   | 1. ID와 비밀번호 입력 필드가 포함된 로그인 화면을 표시한다 |
